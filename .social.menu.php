@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"facebook", 
+		"https://www.facebook.com/phoenixrostov/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"vk", 
+		"https://vk.com/phoenixplusrostov", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"instagram", 
+		"https://www.instagram.com/phoenix__plus/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"youtube", 
+		"https://www.youtube.com/channel/UCTKRu44LHmJfqU78Y9ytuwQ", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"kanzoboz", 
+		"https://kanzoboz.ru/firms/phoenixplus/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+);
+?>

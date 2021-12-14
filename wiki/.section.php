@@ -1,0 +1,6 @@
+<?
+$sSectionName = "wiki";
+$arDirProperties = array(
+
+);
+?>

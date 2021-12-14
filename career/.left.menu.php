@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Карьера", 
+		"/career/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Преимущества", 
+		"/career/advantages/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вакансии", 
+		"/career/vacancies/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отправить резюме", 
+		"/career/send-resume/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Истории успеха", 
+		"/career/success-stories/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
